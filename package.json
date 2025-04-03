@@ -1,0 +1,20 @@
+{
+  "name": "mysql-mcp-server",
+  "version": "1.0.0",
+  "description": "MySQL MCP Server for Cursor IDE",
+  "main": "mysql-mcp.js",
+  "scripts": {
+    "start": "node mysql-mcp.js"
+  },
+  "keywords": [
+    "mysql",
+    "mcp",
+    "cursor",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
