@@ -1,0 +1,18 @@
+# 의존성 패키지
+node_modules/
+
+# 로그 파일
+logs
+*.log
+npm-debug.log*
+
+# 환경 설정 파일
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS 파일
+.DS_Store
+Thumbs.db
