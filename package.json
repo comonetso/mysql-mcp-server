@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "MySQL MCP Server for Cursor IDE",
   "main": "mysql-mcp.js",
+  "bin": {
+    "mysql-mcp-server": "./mysql-mcp.js"
+  },
   "scripts": {
     "start": "node mysql-mcp.js"
   },
